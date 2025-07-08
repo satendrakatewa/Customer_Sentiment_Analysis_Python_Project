@@ -1,3 +1,5 @@
+# Customer_Sentiment_Analysis_Python_Project
+
 # iPhone 15 Sentiment Analysis - Flipkart Reviews
 
 This project performs **sentiment analysis** on user reviews for the Apple iPhone 15, scraped from Flipkart. The analysis involves **web scraping**, **natural language processing (NLP)**, and **data visualization** to uncover customer opinions and feedback patterns.
